@@ -22,6 +22,7 @@ public class MainActivity extends AppCompatActivity {
         buttons.add(R.id.button_2);
         buttons.add(R.id.button_3);
         buttons.add(R.id.button_4);
+        buttons.add(R.id.button_5);
         for(Integer element : buttons) {
             Button b = findViewById(element);
 
